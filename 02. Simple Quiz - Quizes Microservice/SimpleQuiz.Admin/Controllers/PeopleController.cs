@@ -46,13 +46,28 @@ namespace SimpleQuiz.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(int? id, PersonFormModel model)
+        public async Task<IActionResult> Details(int? id, PersonFormModel model)
         {
-            return await this.Handle(
-                          async () => await this.peopleService
-                              .Edit(id, this.mapper.Map<PersonInputModel>(model)),
-                          success: RedirectToAction(nameof(Index)),
-                          failure: View(model));
+            if (id == null)
+            {
+                return await this.Handle(
+                                  async () =>
+                                  {
+                                      await peopleService.Create(mapper.Map<PersonInputModel>(model));
+                                  },
+                                  success: RedirectToAction(nameof(Index)),
+                                  failure: View(model));
+            }
+            else
+            {
+                return await this.Handle(
+                              async () =>
+                              {
+                                  await peopleService.Edit(id, mapper.Map<PersonInputModel>(model));
+                              },
+                              success: RedirectToAction(nameof(Index)),
+                              failure: View(model));
+            }
         }
     }
 }

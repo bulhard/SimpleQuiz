@@ -1,8 +1,6 @@
-﻿using SimpleQuiz.Common.Models;
-
-namespace SimpleQuiz.Admin.Models.People
+﻿namespace SimpleQuiz.Quizzes.Models.People
 {
-    public class PersonInputModel : IMapFrom<PersonFormModel>
+    public class PersonInputModel
     {
         public string FirstName { get; set; }
 

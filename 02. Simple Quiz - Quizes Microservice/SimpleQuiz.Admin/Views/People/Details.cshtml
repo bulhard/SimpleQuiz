@@ -1,4 +1,4 @@
-﻿@model PersonOutputModel
+﻿@model PersonFormModel
 
 @{ ViewData["Title"] = "Edit person"; }
 
@@ -10,7 +10,7 @@
 
 <div class="row">
     <div class="col-lg-4 offset-lg-4">
-        <form asp-controller="People" asp-action="Edit" method="post">
+        <form asp-controller="People" asp-action="Details" method="post">
             <div asp-validation-summary="ModelOnly"></div>
             <div class="form-group">
                 <label asp-for="FirstName"></label>

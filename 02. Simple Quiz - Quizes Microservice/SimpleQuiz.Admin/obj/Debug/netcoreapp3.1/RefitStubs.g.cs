@@ -66,6 +66,7 @@ namespace SimpleQuiz.Admin.Services.Identity
 
 namespace SimpleQuiz.Admin.Services.People
 {
+    using global::Microsoft.AspNetCore.Mvc;
     using global::Refit;
     using global::SimpleQuiz.Admin.Models.People;
     using global::System.Collections.Generic;
@@ -98,10 +99,10 @@ namespace SimpleQuiz.Admin.Services.People
         }
 
         /// <inheritdoc />
-        Task<PersonDetailsOutputModel> IPeopleService.Details(int id)
+        Task<PersonDetailsOutputModel> IPeopleService.Details(int? id)
         {
             var arguments = new object[] { id };
-            var func = requestBuilder.BuildRestResultFuncForMethod("Details", new Type[] { typeof(int) });
+            var func = requestBuilder.BuildRestResultFuncForMethod("Details", new Type[] { ToNullable(typeof(int)) });
             return (Task<PersonDetailsOutputModel>)func(Client, arguments);
         }
 
@@ -111,6 +112,14 @@ namespace SimpleQuiz.Admin.Services.People
             var arguments = new object[] { id, dealer };
             var func = requestBuilder.BuildRestResultFuncForMethod("Edit", new Type[] { ToNullable(typeof(int)), typeof(PersonInputModel) });
             return (Task)func(Client, arguments);
+        }
+
+        /// <inheritdoc />
+        Task<int> IPeopleService.Create(PersonInputModel dealer)
+        {
+            var arguments = new object[] { dealer };
+            var func = requestBuilder.BuildRestResultFuncForMethod("Create", new Type[] { typeof(PersonInputModel) });
+            return (Task<int>)func(Client, arguments);
         }
 
         private static Type ToNullable(Type type) => !type.IsValueType ? type : typeof(Nullable<>).MakeGenericType(type);
