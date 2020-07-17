@@ -1,0 +1,40 @@
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.exe
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.deps.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.runtimeconfig.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.runtimeconfig.dev.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.AssemblyInfoInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.AssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.csproj.CoreCompileInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.RazorTargetAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Web.StaticWebAssets.Manifest.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Web.StaticWebAssets.xml
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.genruntimeconfig.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.csprojAssemblyReference.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.exe
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.deps.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.runtimeconfig.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.runtimeconfig.dev.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\bin\Debug\netcoreapp3.1\SimpleQuiz.Web.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.csprojAssemblyReference.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.AssemblyInfoInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.AssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.csproj.CoreCompileInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.RazorTargetAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Web.StaticWebAssets.Manifest.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Web.StaticWebAssets.xml
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Web\obj\Debug\netcoreapp3.1\SimpleQuiz.Web.genruntimeconfig.cache

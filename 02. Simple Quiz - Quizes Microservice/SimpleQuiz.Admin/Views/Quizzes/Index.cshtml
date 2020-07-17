@@ -1,0 +1,28 @@
+﻿@model IEnumerable<QuizOutputModel>
+
+@{ ViewData["Title"] = "Quizzes"; }
+
+<div class="row">
+    <div class="col-lg-4 offset-lg-4">
+        <h2>Quizzes</h2>
+    </div>
+</div>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Total Questions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var quiz in Model)
+        {
+<tr>
+    <td>@quiz.Title</td>
+    <td>@quiz.Description</td>
+    <td>@quiz.TotalQuestionsCount</td>
+</tr>}
+    </tbody>
+</table>
