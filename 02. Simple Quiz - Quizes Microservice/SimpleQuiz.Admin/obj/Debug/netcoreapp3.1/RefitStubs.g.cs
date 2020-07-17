@@ -106,12 +106,14 @@ namespace SimpleQuiz.Admin.Services.People
         }
 
         /// <inheritdoc />
-        Task IPeopleService.Edit(int id, PersonInputModel dealer)
+        Task IPeopleService.Edit(int? id, PersonInputModel dealer)
         {
             var arguments = new object[] { id, dealer };
-            var func = requestBuilder.BuildRestResultFuncForMethod("Edit", new Type[] { typeof(int), typeof(PersonInputModel) });
+            var func = requestBuilder.BuildRestResultFuncForMethod("Edit", new Type[] { ToNullable(typeof(int)), typeof(PersonInputModel) });
             return (Task)func(Client, arguments);
         }
+
+        private static Type ToNullable(Type type) => !type.IsValueType ? type : typeof(Nullable<>).MakeGenericType(type);
     }
 }
 

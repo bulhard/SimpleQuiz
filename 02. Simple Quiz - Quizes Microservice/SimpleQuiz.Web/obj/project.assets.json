@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
+      "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
       "projectName": "SimpleQuiz.Web",
-      "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
+      "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
       "packagesPath": "C:\\Users\\Pravoslav Milenkov\\.nuget\\packages\\",
-      "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Web\\obj\\",
+      "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

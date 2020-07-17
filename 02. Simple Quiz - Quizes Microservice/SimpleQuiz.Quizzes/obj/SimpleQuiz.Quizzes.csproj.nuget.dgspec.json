@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\SimpleQuiz.Quizzes.csproj": {}
+    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\SimpleQuiz.Quizzes.csproj": {}
   },
   "projects": {
-    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj": {
+    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
+        "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
         "projectName": "SimpleQuiz.Common",
-        "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
+        "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
         "packagesPath": "C:\\Users\\Pravoslav Milenkov\\.nuget\\packages\\",
-        "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\obj\\",
+        "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -90,14 +90,14 @@
         }
       }
     },
-    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\SimpleQuiz.Quizzes.csproj": {
+    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\SimpleQuiz.Quizzes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\SimpleQuiz.Quizzes.csproj",
+        "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\SimpleQuiz.Quizzes.csproj",
         "projectName": "SimpleQuiz.Quizzes",
-        "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\SimpleQuiz.Quizzes.csproj",
+        "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\SimpleQuiz.Quizzes.csproj",
         "packagesPath": "C:\\Users\\Pravoslav Milenkov\\.nuget\\packages\\",
-        "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\obj\\",
+        "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Quizzes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -118,8 +118,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj": {
-                "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj"
+              "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj": {
+                "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj"
               }
             }
           }

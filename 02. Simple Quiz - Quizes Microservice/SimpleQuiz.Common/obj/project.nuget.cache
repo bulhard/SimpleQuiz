@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63P+8R49bs2PWrU441mQ5pNJyD8biZ1lp/IOA/zlaaIaF5Aolv5SSumsyaXBUyaPoHsCwqMpv4Q6CeZzjq70UQ==",
+  "dgSpecHash": "Qc6AIZQYiwT5FREHz2F0wOh5w1dXSNskzixFd2Izujt009jDk988ZA3+t2ZR586UKbLbAS80ZLNEbcxm7c7fiA==",
   "success": true,
-  "projectFilePath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
+  "projectFilePath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pravoslav Milenkov\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\3.1.1\\aspnetcore.healthchecks.ui.client.3.1.1.nupkg.sha512",
     "C:\\Users\\Pravoslav Milenkov\\.nuget\\packages\\aspnetcore.healthchecks.ui.core\\3.1.1\\aspnetcore.healthchecks.ui.core.3.1.1.nupkg.sha512",

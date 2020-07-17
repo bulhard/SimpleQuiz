@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "te5MuVdLs83wKTwX60t/SiTBNWaB06AgPN6a82CPHM5QSJRGqxYLbt9KDdqPyNHbjhbSc4JRYC3gBAMDw4URmg==",
+  "dgSpecHash": "BUCCd2p/6mJ4jNTUg78CO5INpDWMRn86n19QRuIQiEh6xt4gE8YDrgGAummHstE0WI+vsGR2wvoS9H0qaZB5MQ==",
   "success": true,
-  "projectFilePath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
+  "projectFilePath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\02. Simple Quiz - Quizes Microservice\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
