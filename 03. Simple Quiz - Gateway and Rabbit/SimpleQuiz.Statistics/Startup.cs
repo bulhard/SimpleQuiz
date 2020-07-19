@@ -1,4 +1,3 @@
-using MassTransit;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -23,21 +22,7 @@ namespace SimpleQuiz.Statistics
                 .AddWebService<StatisticsDbContext>(this.Configuration)
                 .AddTransient<IDataSeeder, StatisticsDataSeeder>()
                 .AddTransient<IStatisticsService, StatisticsService>()
-                .AddMassTransit(x =>
-                {
-                    x.AddConsumer<PersonCreatedConsumer>();
-
-                    x.UsingRabbitMq((context, cfg) =>
-                    {
-                        cfg.ReceiveEndpoint("event-listener", e =>
-                        {
-                            e.ConfigureConsumer<PersonCreatedConsumer>(context);
-                        });
-                    });
-                })
-                .AddMassTransitHostedService()
-                // .AddMessaging(typeof(PersonCreatedConsumer))
-                ;
+                .AddMessaging(typeof(PersonCreatedConsumer));
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
             => app

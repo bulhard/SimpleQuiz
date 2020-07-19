@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B/Z8tEfdo5NQZl4+RVELOT7j2s4PtYczHECy3TSOHKokFoswZq0zzgXU1RquzPfNSSwG0yRO2KCRua72WgCw6Q==",
+  "dgSpecHash": "RF7fNDpzS0W18oytdgWdjb/7lNyFiD4XEGfrMPxyabxPDliAncGzIKk0trsY1VKE+vn0aTL08as4qJrk7SHlHQ==",
   "success": true,
   "projectFilePath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Statistics\\SimpleQuiz.Statistics.csproj",
   "expectedPackageFiles": [

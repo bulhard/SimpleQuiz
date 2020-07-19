@@ -104,26 +104,19 @@ namespace SimpleQuiz.Common.Infrastructure
             this IServiceCollection services,
             params Type[] consumers)
         {
-            services
-                .AddMassTransit(mt =>
+            services.AddMassTransit(mt =>
+            {
+                consumers.ForEach(consumer => mt.AddConsumer(consumer));
+
+                mt.UsingRabbitMq((context, cfg) =>
                 {
-                    consumers.ForEach(consumer => mt.AddConsumer(consumer));
-
-                    mt.AddBus(bus => Bus.Factory.CreateUsingRabbitMq(rmq =>
+                    consumers.ForEach(consumer => cfg.ReceiveEndpoint("event-listener", e =>
                     {
-                        rmq.Host("rabbitmq", host =>
-                        {
-                            host.Username("rabbitmq");
-                            host.Password("rabbitmq");
-                        });
-
-                        consumers.ForEach(consumer => rmq.ReceiveEndpoint(consumer.FullName, endpoint =>
-                        {
-                            endpoint.ConfigureConsumer(bus, consumer);
-                        }));
+                        e.ConfigureConsumer(context, consumer);
                     }));
-                })
-                .AddMassTransitHostedService();
+                });
+            })
+            .AddMassTransitHostedService();
 
             return services;
         }

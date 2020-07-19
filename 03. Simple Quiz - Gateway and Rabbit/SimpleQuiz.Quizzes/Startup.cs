@@ -1,4 +1,3 @@
-using MassTransit;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -23,13 +22,7 @@ namespace SimpleQuiz.Quizzes
                 .AddTransient<IDataSeeder, QuizzesDataSeeder>()
                 .AddTransient<IQuizzesService, QuizzesService>()
                 .AddTransient<IPeopleService, PeopleService>()
-                .AddMassTransit(x =>
-                {
-                    x.UsingRabbitMq();
-                })
-                .AddMassTransitHostedService()
-            // .AddMessaging()
-            ;
+                .AddMessaging();
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
             => app
