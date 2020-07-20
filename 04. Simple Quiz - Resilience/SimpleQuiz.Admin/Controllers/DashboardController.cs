@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using SimpleQuiz.Admin.Services.Quizzes;
+using System.Threading.Tasks;
 
 namespace SimpleQuiz.Admin.Controllers
 {
@@ -11,7 +12,6 @@ namespace SimpleQuiz.Admin.Controllers
         private readonly IMapper mapper;
         private readonly IQuizzesGatewayService quizzesGatewayService;
 
-
         public DashboardController(IMapper mapper, IQuizzesGatewayService quizzesGatewayService)
         {
             this.mapper = mapper;
@@ -20,11 +20,9 @@ namespace SimpleQuiz.Admin.Controllers
 
         #endregion Fields and Construtors
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var result = quizzesGatewayService.All();
-
-            return View();
+            return View(await quizzesGatewayService.All());
         }
     }
 }

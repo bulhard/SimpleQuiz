@@ -22,13 +22,13 @@ namespace SimpleQuiz.Quizzes.Gateway.Controller
 
         public async Task<QuizzesAndStatsOutputModel> All()
         {
-            var services = await quizzesService.All();
+            var quizzes = await quizzesService.All();
 
             var stats = await statisticsService.Full();
 
             var output = new QuizzesAndStatsOutputModel
             {
-                Services = services,
+                Quizzes = quizzes,
                 Statistics = stats
             };
 

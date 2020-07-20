@@ -5,7 +5,7 @@ namespace SimpleQuiz.Quizzes.Gateway.Models.Quizzes
 {
     public class QuizzesAndStatsOutputModel
     {
-        public IEnumerable<QuizOutputModel> Services { get; internal set; }
-        public StatisticsOutputModel Statistics { get; internal set; }
+        public IEnumerable<QuizOutputModel> Quizzes { get; set; }
+        public StatisticsOutputModel Statistics { get; set; }
     }
 }

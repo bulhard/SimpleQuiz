@@ -1,4 +1,6 @@
-﻿@{ ViewData["Title"] = "Dashboard"; }
+﻿@model QuizzesAndStatsOutputModel
+
+@{ ViewData["Title"] = "Dashboard"; }
 
 <div class="row">
     <div class="col-lg-4 offset-lg-4">
@@ -22,5 +24,43 @@
             <td>Quizzes</td>
             <td><a asp-controller="Quizzes" asp-action="Index">GO -></a></td>
         </tr>
+    </tbody>
+</table>
+
+<div class="row">
+    <div class="col-lg-4 offset-lg-4">
+        <h2>Quizzes Gateway Demo Data</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        Statistics.TotalPeople = @Model.Statistics.TotalPeople
+    </div>
+    <div class="col-6">
+        Statistics.TotalQuizzes = @Model.Statistics.TotalQuizzes
+    </div>
+</div>
+<div class="row">
+    <hr />
+</div>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">First name</th>
+            <th scope="col">Last name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model.Quizzes)
+        {
+            <tr>
+                <td>@person.Id</td>
+                <td>@person.Title</td>
+                <td>@person.Description</td>
+            </tr>
+        }
     </tbody>
 </table>

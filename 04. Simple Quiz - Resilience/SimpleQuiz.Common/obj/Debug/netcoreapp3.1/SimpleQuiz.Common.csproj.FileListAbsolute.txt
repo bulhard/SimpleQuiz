@@ -51,3 +51,12 @@ D:\Personal\Projects\Microservices\SimpleQuiz\04. Simple Quiz - Resilience\Simpl
 D:\Personal\Projects\Microservices\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.csproj.CoreCompileInputs.cache
 D:\Personal\Projects\Microservices\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.dll
 D:\Personal\Projects\Microservices\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.deps.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.csprojAssemblyReference.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.AssemblyInfoInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.AssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.csproj.CoreCompileInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\04. Simple Quiz - Resilience\SimpleQuiz.Common\obj\Debug\netcoreapp3.1\SimpleQuiz.Common.pdb

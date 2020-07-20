@@ -4,7 +4,7 @@ namespace SimpleQuiz.Admin.Models.Quizzes
 {
     public class QuizzesAndStatsOutputModel
     {
-        public IEnumerable<QuizOutputModel> Services { get; set; }
+        public IEnumerable<QuizOutputModel> Quizzes { get; set; }
         public StatisticsOutputModel Statistics { get; set; }
     }
 }
