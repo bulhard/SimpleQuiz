@@ -9,18 +9,21 @@ namespace SimpleQuiz.Admin.Controllers
         #region Fields and Construtors
 
         private readonly IMapper mapper;
-        private readonly IQuizzesService quizzesService;
+        private readonly IQuizzesGatewayService quizzesGatewayService;
 
-        public DashboardController(IMapper mapper, IQuizzesService quizzesService)
+
+        public DashboardController(IMapper mapper, IQuizzesGatewayService quizzesGatewayService)
         {
             this.mapper = mapper;
-            this.quizzesService = quizzesService;
+            this.quizzesGatewayService = quizzesGatewayService;
         }
 
         #endregion Fields and Construtors
 
         public IActionResult Index()
         {
+            var result = quizzesGatewayService.All();
+
             return View();
         }
     }

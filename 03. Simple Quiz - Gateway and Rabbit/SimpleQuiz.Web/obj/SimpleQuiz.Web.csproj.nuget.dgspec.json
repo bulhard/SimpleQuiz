@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj": {}
+    "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj": {}
   },
   "projects": {
-    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj": {
+    "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
+        "projectUniqueName": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
         "projectName": "SimpleQuiz.Web",
-        "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
-        "packagesPath": "C:\\Users\\Pravoslav Milenkov\\.nuget\\packages\\",
-        "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\obj\\",
+        "projectPath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\SimpleQuiz.Web.csproj",
+        "packagesPath": "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pravoslav Milenkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\pravoslav.milenkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

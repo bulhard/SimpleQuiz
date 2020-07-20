@@ -47,6 +47,10 @@ namespace SimpleQuiz.Admin
             services
                 .AddRefitClient<IPeopleService>()
                 .WithConfiguration(serviceEndpoints.Quizzes);
+
+            services
+                .AddRefitClient<IQuizzesGatewayService>()
+                .WithConfiguration(serviceEndpoints.QuizzesGateway);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

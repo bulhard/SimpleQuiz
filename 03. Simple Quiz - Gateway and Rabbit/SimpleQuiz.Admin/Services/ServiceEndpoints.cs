@@ -9,6 +9,8 @@ namespace SimpleQuiz.Admin.Services
 
         public string Quizzes { get; private set; }
 
+        public string QuizzesGateway { get; private set; }
+
         public string Statistics { get; private set; }
 
         public string this[string service]
