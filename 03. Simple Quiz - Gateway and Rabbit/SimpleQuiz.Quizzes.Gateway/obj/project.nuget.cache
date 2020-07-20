@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "horY0Y71OYXpXjNiLZgij63aoOsujbHmeDS53UPKNoOHMMj1Sdfm6SpfBE5lIM5C8Q69/oLvXfYi2swUby2bsg==",
+  "dgSpecHash": "NCJh59pqe8/NhquNKjpFapeqJIvwIub1eWVQbQ4SbPJIv2uJDSe9swBz5341tRqnBTBZOhJpsMC3ZqRJPfmNiQ==",
   "success": true,
   "projectFilePath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Quizzes.Gateway\\SimpleQuiz.Quizzes.Gateway.csproj",
   "expectedPackageFiles": [
@@ -35,7 +35,8 @@
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\3.1.5\\microsoft.extensions.diagnostics.healthchecks.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.5\\microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.5\\microsoft.extensions.hosting.abstractions.3.1.5.nupkg.sha512",
-    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.http\\3.1.3\\microsoft.extensions.http.3.1.3.nupkg.sha512",
+    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.http\\3.1.5\\microsoft.extensions.http.3.1.5.nupkg.sha512",
+    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.5\\microsoft.extensions.http.polly.3.1.5.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.logging\\3.1.5\\microsoft.extensions.logging.3.1.5.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
@@ -54,6 +55,8 @@
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\newid\\3.0.2\\newid.3.0.2.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\refit\\5.1.67\\refit.5.1.67.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\refit.httpclientfactory\\5.1.67\\refit.httpclientfactory.5.1.67.nupkg.sha512",

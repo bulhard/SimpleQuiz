@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using GreenPipes;
 using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -40,7 +41,14 @@ namespace SimpleQuiz.Common.Infrastructure
             => services
                 .AddScoped<DbContext, TDbContext>()
                 .AddDbContext<TDbContext>(options => options
-                    .UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+                    .UseSqlServer(
+                        configuration.GetConnectionString("DefaultConnection"),
+                        sqlOptions => sqlOptions
+                            .EnableRetryOnFailure(
+                                maxRetryCount: 10,
+                                maxRetryDelay: TimeSpan.FromSeconds(30),
+                                errorNumbersToAdd: null)
+                    ));
 
         public static IServiceCollection AddApplicationSettings(
             this IServiceCollection services,
@@ -110,9 +118,11 @@ namespace SimpleQuiz.Common.Infrastructure
 
                 mt.UsingRabbitMq((context, cfg) =>
                 {
-                    consumers.ForEach(consumer => cfg.ReceiveEndpoint("event-listener", e =>
+                    consumers.ForEach(consumer => cfg.ReceiveEndpoint(consumer.FullName, endpoint =>
                     {
-                        e.ConfigureConsumer(context, consumer);
+                        endpoint.PrefetchCount = 12; // Number of CPUs is default
+                        endpoint.UseMessageRetry(x => x.Interval(5, 100));
+                        endpoint.ConfigureConsumer(context, consumer);
                     }));
                 });
             })
