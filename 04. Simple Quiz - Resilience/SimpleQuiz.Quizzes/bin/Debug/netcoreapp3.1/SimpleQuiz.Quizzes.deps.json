@@ -121,7 +121,6 @@
           "Microsoft.Extensions.FileProviders.Physical": "3.1.0.0",
           "Microsoft.Extensions.FileSystemGlobbing": "3.1.0.0",
           "Microsoft.Extensions.Hosting": "3.1.0.0",
-          "Microsoft.Extensions.Http": "3.1.0.0",
           "Microsoft.Extensions.Identity.Core": "3.1.0.0",
           "Microsoft.Extensions.Identity.Stores": "3.1.0.0",
           "Microsoft.Extensions.Localization.Abstractions": "3.1.0.0",
@@ -300,6 +299,36 @@
         },
         "compile": {
           "SimpleQuiz.Quizzes.dll": {}
+        }
+      },
+      "AspNetCore.HealthChecks.Rabbitmq/3.1.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Diagnostics.HealthChecks": "3.1.5",
+          "RabbitMQ.Client": "6.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/HealthChecks.RabbitMQ.dll": {
+            "assemblyVersion": "3.1.2.0",
+            "fileVersion": "3.1.2.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/HealthChecks.RabbitMQ.dll": {}
+        }
+      },
+      "AspNetCore.HealthChecks.SqlServer/3.1.1": {
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "1.1.1",
+          "Microsoft.Extensions.Diagnostics.HealthChecks": "3.1.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/HealthChecks.SqlServer.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/HealthChecks.SqlServer.dll": {}
         }
       },
       "AspNetCore.HealthChecks.UI.Client/3.1.1": {
@@ -504,9 +533,11 @@
         }
       },
       "Microsoft.CSharp/4.7.0": {},
-      "Microsoft.Data.SqlClient/1.0.19269.1": {
+      "Microsoft.Data.SqlClient/1.1.1": {
         "dependencies": {
           "Microsoft.Identity.Client": "3.0.8",
+          "Microsoft.IdentityModel.JsonWebTokens": "5.5.0",
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0",
           "Microsoft.Win32.Registry": "4.5.0",
           "System.Configuration.ConfigurationManager": "4.5.0",
           "System.Runtime.Caching": "4.5.0",
@@ -516,22 +547,22 @@
         },
         "runtime": {
           "lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll": {
-            "assemblyVersion": "1.0.19269.1",
-            "fileVersion": "1.0.19269.1"
+            "assemblyVersion": "1.11.20045.2",
+            "fileVersion": "1.11.20045.2"
           }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll": {
             "rid": "unix",
             "assetType": "runtime",
-            "assemblyVersion": "1.0.19269.1",
-            "fileVersion": "1.0.19269.1"
+            "assemblyVersion": "1.11.20045.2",
+            "fileVersion": "1.11.20045.2"
           },
           "runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll": {
             "rid": "win",
             "assetType": "runtime",
-            "assemblyVersion": "1.0.19269.1",
-            "fileVersion": "1.0.19269.1"
+            "assemblyVersion": "1.11.20045.2",
+            "fileVersion": "1.11.20045.2"
           }
         },
         "compile": {
@@ -604,7 +635,7 @@
       },
       "Microsoft.EntityFrameworkCore.SqlServer/3.1.5": {
         "dependencies": {
-          "Microsoft.Data.SqlClient": "1.0.19269.1",
+          "Microsoft.Data.SqlClient": "1.1.1",
           "Microsoft.EntityFrameworkCore.Relational": "3.1.5"
         },
         "runtime": {
@@ -776,6 +807,38 @@
         },
         "compile": {
           "lib/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http/3.1.5": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5",
+          "Microsoft.Extensions.Logging": "3.1.5",
+          "Microsoft.Extensions.Options": "3.1.5"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Http.dll": {
+            "assemblyVersion": "3.1.5.0",
+            "fileVersion": "3.100.520.27009"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Http.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/3.1.5": {
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.5",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {
+            "assemblyVersion": "3.1.5.0",
+            "fileVersion": "3.100.520.27009"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.5": {
@@ -1022,6 +1085,31 @@
         },
         "compile": {
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
+        }
+      },
+      "Polly/7.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.1.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Polly.dll": {}
+        }
+      },
+      "Polly.Extensions.Http/3.0.0": {
+        "dependencies": {
+          "Polly": "7.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Polly.Extensions.Http.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Polly.Extensions.Http.dll": {}
         }
       },
       "RabbitMQ.Client/6.1.0": {
@@ -1960,12 +2048,15 @@
       },
       "SimpleQuiz.Common/1.0.0": {
         "dependencies": {
+          "AspNetCore.HealthChecks.Rabbitmq": "3.1.2",
+          "AspNetCore.HealthChecks.SqlServer": "3.1.1",
           "AspNetCore.HealthChecks.UI.Client": "3.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "7.0.0",
           "MassTransit.AspNetCore": "7.0.1",
           "MassTransit.RabbitMQ": "7.0.1",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.5",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5"
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
+          "Microsoft.Extensions.Http.Polly": "3.1.5"
         },
         "runtime": {
           "SimpleQuiz.Common.dll": {}
@@ -2517,12 +2608,6 @@
       "Microsoft.Extensions.Hosting/3.1.0.0": {
         "compile": {
           "Microsoft.Extensions.Hosting.dll": {}
-        },
-        "compileOnly": true
-      },
-      "Microsoft.Extensions.Http/3.1.0.0": {
-        "compile": {
-          "Microsoft.Extensions.Http.dll": {}
         },
         "compileOnly": true
       },
@@ -3566,6 +3651,20 @@
       "serviceable": false,
       "sha512": ""
     },
+    "AspNetCore.HealthChecks.Rabbitmq/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EnKUl93QejmLOxx9vm8POm6mWGTPdUURUbQPYDuFXEdc9sFmG1irn0DLVoOt/XmmpcroRd0INFh42+MlyrQVfg==",
+      "path": "aspnetcore.healthchecks.rabbitmq/3.1.2",
+      "hashPath": "aspnetcore.healthchecks.rabbitmq.3.1.2.nupkg.sha512"
+    },
+    "AspNetCore.HealthChecks.SqlServer/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LwxrGcuxzatDdcQEPYBIONr06kFKm35svf4omUw7CJDgz/2mS9XNZgF/npwwZG0+3KM49ATjlc4tl1uJbSkHLw==",
+      "path": "aspnetcore.healthchecks.sqlserver/3.1.1",
+      "hashPath": "aspnetcore.healthchecks.sqlserver.3.1.1.nupkg.sha512"
+    },
     "AspNetCore.HealthChecks.UI.Client/3.1.1": {
       "type": "package",
       "serviceable": true,
@@ -3664,12 +3763,12 @@
       "path": "microsoft.csharp/4.7.0",
       "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
-    "Microsoft.Data.SqlClient/1.0.19269.1": {
+    "Microsoft.Data.SqlClient/1.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-p2xa+sUAt7IRNxCl8ZT77bd7qHVKookDJ4HDUc+ArWkFk204rIpFhHajCTQqomSbcYi+olwheqQrwr+ohGRmJw==",
-      "path": "microsoft.data.sqlclient/1.0.19269.1",
-      "hashPath": "microsoft.data.sqlclient.1.0.19269.1.nupkg.sha512"
+      "sha512": "sha512-4tYUViFd7kPYFjTQ2gKdJ78bFRAG065NQXe1XMw4rbfUDXBDR+6aNykEyfCSCOw16SC3cw2/hlfSR8YEwK1qpA==",
+      "path": "microsoft.data.sqlclient/1.1.1",
+      "hashPath": "microsoft.data.sqlclient.1.1.1.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/3.1.5": {
       "type": "package",
@@ -3796,6 +3895,20 @@
       "sha512": "sha512-e57iK9spITqHE7qNgC3IowzK+PK5NC2rmVY4Sz+ZoDNO24nIsgllIRbanSbt2wQz7Iy/N8Jm3C1sXqKc8zEOMQ==",
       "path": "microsoft.extensions.hosting.abstractions/3.1.5",
       "hashPath": "microsoft.extensions.hosting.abstractions.3.1.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Http/3.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P8yu3UDd0X129FmxJN0/nObuuH4v7YoxK00kEs8EU4R7POa+3yp/buux74fNYTLORuEqjBTMGtV7TBszuvCj7g==",
+      "path": "microsoft.extensions.http/3.1.5",
+      "hashPath": "microsoft.extensions.http.3.1.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Http.Polly/3.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wW+kLLqoQPIg3+NQhBkqmxBAtoGJhVsQ03RAjw/Jx0oTSmaZsJY3rIlBmsrHdeKOxq19P4qRlST2wk/k5tdXhg==",
+      "path": "microsoft.extensions.http.polly/3.1.5",
+      "hashPath": "microsoft.extensions.http.polly.3.1.5.nupkg.sha512"
     },
     "Microsoft.Extensions.Logging/3.1.5": {
       "type": "package",
@@ -3929,6 +4042,20 @@
       "sha512": "sha512-5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
+    },
+    "Polly/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mpQsvlEn4ipgICh5CGyVLPV93RFVzOrBG7wPZfzY8gExh7XgWQn0GCDY9nudbUEJ12UiGPP9i4+CohghBvzhmg==",
+      "path": "polly/7.1.0",
+      "hashPath": "polly.7.1.0.nupkg.sha512"
+    },
+    "Polly.Extensions.Http/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-drrG+hB3pYFY7w1c3BD+lSGYvH2oIclH8GRSehgfyP5kjnFnHKQuuBhuHLv+PWyFuaTDyk/vfRpnxOzd11+J8g==",
+      "path": "polly.extensions.http/3.0.0",
+      "hashPath": "polly.extensions.http.3.0.0.nupkg.sha512"
     },
     "RabbitMQ.Client/6.1.0": {
       "type": "package",
@@ -5107,11 +5234,6 @@
       "sha512": ""
     },
     "Microsoft.Extensions.Hosting/3.1.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Extensions.Http/3.1.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
