@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tTzEWe9RhDW/kIt3K9HinMRKFiBSMX3j/U7O1TY/zCplkSUQ187+OOi3RP71mOLmPTNn7gWOfzLr21Y4kaE1kA==",
+  "dgSpecHash": "hTSn5c4/QIct1baFH/9gbVPweSgYLA9Y/rEUQQ4C5p0qJyNknWVv10CWX+657Cqm6txciCPQ5Rp77GdPYfVfGQ==",
   "success": true,
   "projectFilePath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\03. Simple Quiz - Gateway and Rabbit\\SimpleQuiz.Admin\\SimpleQuiz.Admin.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\aspnetcore.healthchecks.rabbitmq\\3.1.2\\aspnetcore.healthchecks.rabbitmq.3.1.2.nupkg.sha512",
+    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\3.1.1\\aspnetcore.healthchecks.sqlserver.3.1.1.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\3.1.1\\aspnetcore.healthchecks.ui.client.3.1.1.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\aspnetcore.healthchecks.ui.core\\3.1.1\\aspnetcore.healthchecks.ui.core.3.1.1.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
@@ -18,7 +20,7 @@
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
-    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19269.1\\microsoft.data.sqlclient.1.0.19269.1.nupkg.sha512",
+    "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.data.sqlclient\\1.1.1\\microsoft.data.sqlclient.1.1.1.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.5\\microsoft.entityframeworkcore.3.1.5.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.5\\microsoft.entityframeworkcore.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.5\\microsoft.entityframeworkcore.analyzers.3.1.5.nupkg.sha512",

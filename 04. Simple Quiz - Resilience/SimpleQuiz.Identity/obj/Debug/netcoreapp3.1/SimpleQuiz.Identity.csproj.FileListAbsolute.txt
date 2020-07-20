@@ -1,0 +1,440 @@
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csprojAssemblyReference.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfoInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CoreCompileInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.exe
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.deps.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.dev.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Automatonymous.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\GreenPipes.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\NewId.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.RazorTargetAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CopyComplete
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.Manifest.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.xml
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.genruntimeconfig.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.exe
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.deps.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.dev.json
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Automatonymous.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\GreenPipes.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\NewId.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csprojAssemblyReference.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfoInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CoreCompileInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.RazorTargetAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CopyComplete
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.Manifest.cache
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.xml
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.genruntimeconfig.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.exe
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.deps.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.dev.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Automatonymous.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\GreenPipes.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\NewId.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csprojAssemblyReference.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfoInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CoreCompileInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.RazorTargetAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CopyComplete
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.Manifest.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.xml
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\02. Simple Quiz - Quizes Microservice\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.genruntimeconfig.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.exe
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.deps.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.dev.json
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Automatonymous.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\GreenPipes.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\NewId.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csprojAssemblyReference.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfoInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CoreCompileInputs.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cs
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.RazorTargetAssemblyInfo.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CopyComplete
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.Manifest.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.xml
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.genruntimeconfig.cache
+G:\Personal\Training\Microservices\SimpleQuiz\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.exe
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.deps.json
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.json
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.runtimeconfig.dev.json
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\bin\Debug\netcoreapp3.1\SimpleQuiz.Common.pdb
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csprojAssemblyReference.cache
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfoInputs.cache
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.AssemblyInfo.cs
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.RazorTargetAssemblyInfo.cache
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.csproj.CopyComplete
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.Manifest.cache
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\staticwebassets\SimpleQuiz.Identity.StaticWebAssets.xml
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.dll
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.pdb
+D:\Personal\Projects\Microservices\SimpleQuiz\03. Simple Quiz - Gateway and Rabbit\SimpleQuiz.Identity\obj\Debug\netcoreapp3.1\SimpleQuiz.Identity.genruntimeconfig.cache
