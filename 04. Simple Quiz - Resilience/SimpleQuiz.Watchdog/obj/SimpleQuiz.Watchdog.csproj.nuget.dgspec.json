@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\SimpleQuiz.Watchdog.csproj": {}
+    "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\SimpleQuiz.Watchdog.csproj": {}
   },
   "projects": {
-    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj": {
+    "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
+        "projectUniqueName": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
         "projectName": "SimpleQuiz.Common",
-        "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
-        "packagesPath": "C:\\Users\\Pravoslav Milenkov\\.nuget\\packages\\",
-        "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\obj\\",
+        "projectPath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj",
+        "packagesPath": "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pravoslav Milenkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\pravoslav.milenkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -98,27 +96,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\SimpleQuiz.Watchdog.csproj": {
+    "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\SimpleQuiz.Watchdog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\SimpleQuiz.Watchdog.csproj",
+        "projectUniqueName": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\SimpleQuiz.Watchdog.csproj",
         "projectName": "SimpleQuiz.Watchdog",
-        "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\SimpleQuiz.Watchdog.csproj",
-        "packagesPath": "C:\\Users\\Pravoslav Milenkov\\.nuget\\packages\\",
-        "outputPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\obj\\",
+        "projectPath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\SimpleQuiz.Watchdog.csproj",
+        "packagesPath": "C:\\Users\\pravoslav.milenkov\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Watchdog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pravoslav Milenkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\pravoslav.milenkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -130,8 +126,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj": {
-                "projectPath": "G:\\Personal\\Training\\Microservices\\SimpleQuiz\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj"
+              "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj": {
+                "projectPath": "D:\\Personal\\Projects\\Microservices\\SimpleQuiz\\04. Simple Quiz - Resilience\\SimpleQuiz.Common\\SimpleQuiz.Common.csproj"
               }
             }
           }
@@ -172,7 +168,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
